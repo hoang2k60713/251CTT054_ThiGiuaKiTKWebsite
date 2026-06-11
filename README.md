@@ -8,7 +8,6 @@ ChatGPT
 * Tạo khu vực dịch vụ sử dụng Flexbox.
 * Viết chức năng tìm kiếm đồ uống bằng JavaScript.
 * Viết chức năng đếm số lượt đặt hàng.
-* Thiết kế footer giống website Highlands Coffee.
 * Chỉnh sửa giao diện responsive cho website.
 3. Những phần tự thực hiện
 * Tự xây dựng cấu trúc thư mục dự án.
